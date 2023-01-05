@@ -1,5 +1,7 @@
 @charset "utf-8";
 
 body{
-    background-color: darkblue;
+    background-color: darkblue;    
+    font-weight: bold;
+    color: snow;
 }
